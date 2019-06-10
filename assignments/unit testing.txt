@@ -1,0 +1,7 @@
+make a list of integer values from 1 to 100.
+create a function to return max value from the list
+create a function that return min value from the list
+create a function that return averaga value from the list.
+
+create unit test cases to test all the above functions. [ dont use python built in min function, write your own
+python script to test the list]
